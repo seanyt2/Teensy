@@ -1,0 +1,277 @@
+﻿═══════════════════════════════════════════════════════════════════
+[2026-04-24 16:19:57.907] FATAL (Application.ThreadException)
+Process: PID=16300  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1027
+
+═══════════════════════════════════════════════════════════════════
+[2026-04-24 16:30:57.768] FATAL (Application.ThreadException)
+Process: PID=12796  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1027
+
+[2026-04-24 18:57:28.907] INFO: COM2 close timed out after 500 ms (driver likely hung); continuing.
+[2026-04-24 19:12:44.736] INFO: COM2 close timed out after 500 ms (driver likely hung); continuing.
+[2026-04-24 19:13:21.344] INFO: COM2 close timed out after 500 ms (driver likely hung); continuing.
+[2026-04-24 19:13:54.513] INFO: COM2 close timed out after 500 ms (driver likely hung); continuing.
+═══════════════════════════════════════════════════════════════════
+[2026-04-24 19:16:54.935] FATAL (Application.ThreadException)
+Process: PID=16756  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1066
+
+═══════════════════════════════════════════════════════════════════
+[2026-04-24 19:22:54.163] FATAL (Application.ThreadException)
+Process: PID=20636  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1091
+
+═══════════════════════════════════════════════════════════════════
+[2026-04-24 19:30:14.456] FATAL (Application.ThreadException)
+Process: PID=21308  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1147
+
+═══════════════════════════════════════════════════════════════════
+[2026-04-24 19:34:21.115] FATAL (Application.ThreadException)
+Process: PID=1032  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1166
+
+[2026-04-24 20:07:43.549] INFO: COM1 close timed out after 500 ms (driver likely hung); continuing.
+[2026-04-24 20:08:17.410] INFO: COM1 close timed out after 500 ms (driver likely hung); continuing.
+═══════════════════════════════════════════════════════════════════
+[2026-04-24 20:09:28.844] FATAL (Application.ThreadException)
+Process: PID=17052  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1166
+
+[2026-04-24 20:21:51.452] INFO: COM2 close timed out after 500 ms (driver likely hung); continuing.
+═══════════════════════════════════════════════════════════════════
+[2026-04-24 21:02:45.498] FATAL (Application.ThreadException)
+Process: PID=440  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1166
+
+═══════════════════════════════════════════════════════════════════
+[2026-04-24 21:10:16.648] FATAL (Application.ThreadException)
+Process: PID=6300  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1166
+
+═══════════════════════════════════════════════════════════════════
+[2026-04-25 08:32:34.781] FATAL (Application.ThreadException)
+Process: PID=9176  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1166
+
+═══════════════════════════════════════════════════════════════════
+[2026-05-02 22:14:40.636] FATAL (Application.ThreadException)
+Process: PID=2332  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1166
+
+═══════════════════════════════════════════════════════════════════
+[2026-05-02 22:41:13.552] FATAL (Application.ThreadException)
+Process: PID=1556  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1166
+
+═══════════════════════════════════════════════════════════════════
+[2026-05-03 07:07:23.691] FATAL (Application.ThreadException)
+Process: PID=22604  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1277
+
+═══════════════════════════════════════════════════════════════════
+[2026-05-03 07:14:54.640] FATAL (Application.ThreadException)
+Process: PID=34084  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1277
+
+═══════════════════════════════════════════════════════════════════
+[2026-05-03 08:14:37.340] FATAL (Application.ThreadException)
+Process: PID=10844  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1277
+
+═══════════════════════════════════════════════════════════════════
+[2026-05-03 14:14:49.660] FATAL (Application.ThreadException)
+Process: PID=9912  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1277
+
+═══════════════════════════════════════════════════════════════════
+[2026-05-03 14:24:55.755] FATAL (Application.ThreadException)
+Process: PID=13044  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1277
+
+═══════════════════════════════════════════════════════════════════
+[2026-05-03 14:46:56.407] FATAL (Application.ThreadException)
+Process: PID=22288  OS=Microsoft Windows NT 10.0.26200.0
+CLR: 6.0.36
+Thread: #1 (name=<unnamed>)
+── Exception [0] ──
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'RichTextBox'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.TextBoxBase.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at Interop.User32.SendMessageW(IHandle hWnd, WM Msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.RichTextBox.get_TextLength()
+   at MitmGui.Forms.MainForm.AppendLog(String msg) in D:\Documents\Claude\Projects\MITM GUI\MitmGui\MitmGui\Forms\MainForm.cs:line 1277
+
